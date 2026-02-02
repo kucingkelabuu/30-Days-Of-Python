@@ -1,5 +1,5 @@
 
-# Variables in Python
+#Variables in Python
 
 first_name = 'Asabeneh'
 last_name = 'Yetayeh'
